@@ -5,9 +5,9 @@
   "description": "This is package helps with basics 2d platform player controller",
   "unity": "2020.3",
   "unityRelease": "16f1",
-  "documentationUrl": "https://github.com/jfcarocota/amerike-unity-concepts/blob/main/README.md",
-  "changelogUrl": "https://github.com/jfcarocota/amerike-unity-concepts/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/jfcarocota/amerike-unity-concepts/blob/main/LICENSE",
+  "documentationUrl": "https://github.com/jfcarocota/com.cglab.gamelibs/blob/main/README.md",
+  "changelogUrl": "https://github.com/jfcarocota/com.cglab.gamelibs/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/jfcarocota/com.cglab.gamelibs/blob/main/LICENSE",
   "keywords": [
     "gamelib",
     "platform",
@@ -23,6 +23,6 @@
   "license": "MIT",
   "repository": {
       "type": "git",
-      "url": "https://github.com/jfcarocota/cglab-unity-utils.git#master"
+      "url": "https://github.com/jfcarocota/com.cglab.gamelibs.git#main"
   }
 }
