@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Scripts/GameControls.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Packages/com.cglab.gamelibs/GameControls.inputactions'
 
 using System;
 using System.Collections;

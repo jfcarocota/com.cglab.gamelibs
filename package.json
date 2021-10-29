@@ -5,6 +5,7 @@
   "description": "This is package helps with basics 2d platform player controller",
   "unity": "2020.3",
   "unityRelease": "16f1",
+  "hideInEditor": false,
   "documentationUrl": "https://github.com/jfcarocota/com.cglab.gamelibs/blob/main/README.md",
   "changelogUrl": "https://github.com/jfcarocota/com.cglab.gamelibs/blob/main/CHANGELOG.md",
   "licensesUrl": "https://github.com/jfcarocota/com.cglab.gamelibs/blob/main/LICENSE",
