@@ -27,7 +27,9 @@ using GameLibs.MemorySystem;
 <p style="text-aling="center";">
  Retuns a Vector2 with the X and Y axis from control:
 </p>
+
   (Example on player controller)
+  
   ```csharp
   void LateUpdate()
   {
