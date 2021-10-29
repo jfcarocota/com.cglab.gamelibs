@@ -1,0 +1,28 @@
+{
+  "name": "com.cglab.gamelibs",
+  "version": "1.0.1",
+  "displayName": "GameLibs by CGLab",
+  "description": "This is package helps with basics 2d platform player controller",
+  "unity": "2020.3",
+  "unityRelease": "16f1",
+  "documentationUrl": "https://github.com/jfcarocota/amerike-unity-concepts/blob/main/README.md",
+  "changelogUrl": "https://github.com/jfcarocota/amerike-unity-concepts/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/jfcarocota/amerike-unity-concepts/blob/main/LICENSE",
+  "keywords": [
+    "gamelib",
+    "platform",
+    "controls",
+    "2d",
+    "player"
+  ],
+  "author": {
+    "name": "Jesús Caro",
+    "email": "jfcarocota@gmail.com",
+    "url": "https://www.linkedin.com/in/jesus-caro/"
+  },
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jfcarocota/cglab-unity-utils.git#master"
+  }
+}
